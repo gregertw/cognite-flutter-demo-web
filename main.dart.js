@@ -39255,16 +39255,8 @@ h=i.h(j,"cdfProject")
 n.y=h==null?"publicdata":h
 h=i.h(j,"cdfURL")
 n.ch=h==null?"https://api.cognitedata.com":h
-h=i.h(j,"cdfTimeSeriesId")
-n.z=h==null?"":h
-h=i.h(j,"cdfProject")
-n.y=h==null?"gregerwedel":h
-h=i.h(j,"cdfURL")
-n.ch=h==null?"https://greenfield.cognitedata.com":h
-h=i.h(j,"cdfApiKey")
-n.Q=h==null?"NjU5ODQ3YjQtZjI0MS00YTI4LWFiM2UtMDRmYjc4ZGRjYTdk":h
 j=i.h(j,"cdfTimeSeriesId")
-n.z=j==null?"fitbit_c2009283ac84526e9f0e01ef4cc9fa2a":j
+n.z=j==null?"":j
 l=n.fy.a.h(0,"heartbeat")
 if(l==null){j=n.y
 l=T.as_(n.Q,n.ch,new B.v2(H.a([],t.RK)),C.d2,j)}m=l
