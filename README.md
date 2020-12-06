@@ -5,6 +5,10 @@
 ## Demo App
 
 This is a repository to use Github Pages to host the app found at https://gregertw.github.io/cognite-flutter-demo-web/.
+
+## Privacy
+
+The app is registered with Firebase Analytics and username (email), project id, and timeseries external id are registered on login. 
 ## Web version
 
 This app can run on any Flutter supported platform. The [web version is hosted on Github](https://gregertw.github.io/cognite-flutter-demo-web/).
